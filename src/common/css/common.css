@@ -1,0 +1,21 @@
+
+
+
+.divider{
+  width: 10%;
+  height: 1px;
+  overflow: hidden;
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 40px;
+  background-color: grey;
+}
+
+
+.little-title{
+  text-align: center;
+  padding: 10px;
+  font-family: 'qingke';
+  font-weight: bold;
+}
+
